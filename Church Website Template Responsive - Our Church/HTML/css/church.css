@@ -58,7 +58,7 @@ a:hover, a:focus {
 	text-decoration:none;
 }
 .link-reverse {
-	color:#E95D00;
+	color:#014225;
 }
 .link-reverse:hover, .link-reverse:focus {
 	color:#014225;
@@ -157,9 +157,9 @@ font-size: 25px;
 	border-radius: 3px;
 }
 .btn-primary {
-	color: #483f34;
-	background-color: #ffc55f;
-	border-color: #e7ad47;
+	color: #FFF;
+	background-color: #014225;
+	border-color: #a6cf99;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
 	color: #483f34;
@@ -426,7 +426,7 @@ top: 25%;
 	top:55%;
 }
 .slide-one {
-	background:url(../images/homepageBible.jpg) no-repeat;
+	background:url(../images/homeGreenBible.jpg) no-repeat;
 	background-size:cover;
 }
 .slide-two {
@@ -434,7 +434,7 @@ top: 25%;
 	background-size:cover;
 }
 .slide-three {
-	background:url(../images/homepageBible.jpg) no-repeat;
+	background:url(../images/greenBibleHome2.jpg) no-repeat;
 	background-size:cover;
 }
 
